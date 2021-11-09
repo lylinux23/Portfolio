@@ -7,7 +7,8 @@
 
 ## Project 2 Time Series Analysis and Forecasting
 + Reference Book
-+ 1. 我的人
+1. Practical Time Series Analysis: Prediction with Statistics and Machine Learning
+2. Applied Time Series Analysis: A Practical Guide to Modeling and Forecasting
 
 ### 
 ### M5 Prediction
