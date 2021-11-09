@@ -1,4 +1,5 @@
-## Welcome to Youliang's Portfolio
+# Welcome to Youliang's Portfolio
 
 
-### project 1
+## Course Notes
+### Advanced Data Mining
