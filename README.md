@@ -2,6 +2,7 @@
 
 
 ## Project 1
++ User portraits is an effective tool for delineating target users, linking user demands and design directions. It  have been widely used in various fields.
 
 ## Project 2
 
