@@ -10,8 +10,7 @@
 1. Practical Time Series Analysis: Prediction with Statistics and Machine Learning
 2. Applied Time Series Analysis: A Practical Guide to Modeling and Forecasting
 
-### 
-### M5 Prediction
++ M5 Prediction
 
 ## Project 3 Intelligent Credit Scoring
 
