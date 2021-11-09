@@ -14,21 +14,19 @@
 
 ## Project 3 Intelligent Credit Scoring
 
-## Project 4 
+## Project 4 Reading Clocks Using Neural Networks(Deep Learning)
 
-## Project 5
+## Project 5 Allstate Claims Severity
 
-## Project 6
+## Project 6 Supply Chain Analysis
 
-## Project 7
+## Project 7 Data Mining 
 
-## Project 8
+## Project 8 Machine learning Algorithms
 
-
-## Project 9
-
-## Project 10
 
 
 
 # Course Note
+
+# Books 
