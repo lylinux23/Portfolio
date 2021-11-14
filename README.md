@@ -22,8 +22,8 @@
 
 ### Project 6 Machine learning Algorithms
 + **Bayesian Algorithms**
-1. **Naive Bayes**
-2. Gaussian Naive Bayes
+1. Naive Bayes
+2. **Gaussian Naive Bayes**
 + **Regression Algorithms**
 1. Linear Regression
 2. Logistic Regression
@@ -39,11 +39,6 @@
 + **Deep Learning**
 7. Seq2seq
 8. Transformer 
-
-
-
-
-### Course Note
 
 ### Books 
 1.
