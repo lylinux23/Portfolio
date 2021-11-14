@@ -59,13 +59,23 @@
 | SQL for Data Analytics | Upom Malik       |
 
 ### Data Analysis
-
+| Name                                     | Authors                               |
+| ---------------------------------------- | ------------------------------------- |
+| Data Analytics                           | Mohiuddin Ahmed, Al-Sakib Khan Pathan |
+| Python Data Cleaning Cookbook            | Michael Walker                        |
+| Cleaning Data for Effective Data Science | David Mertz                           |
+| Feature Engineering for Machine Learning | Alice Zheng                           |
+| Feature Engineering and Selection        | Max Kuhn, Kjell Johnson               |
 
 ### Data Visualization
-
+| Name                                     | Authors                 |
+| ---------------------------------------- | ----------------------- |
+| Cool Infographics                        | Randy Krum              |
+| Fundamentals of Data Visualization       | Claus O.Wilke           |
++[Information is beautiful](https://informationisbeautiful.net/)
++[Visual Capitalist](https://www.visualcapitalist.com/)
 
 ### Data Science
-
 
 
 ### Machine Learning
