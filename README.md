@@ -1,4 +1,4 @@
-# Welcome to Youliang's Portfolio()
+# Welcome to Youliang's Portfolio
 
 
 ## Project 1 User Portrait Analysis
@@ -18,9 +18,27 @@
 
 ## Project 5 Data Mining 
 + **CRISP-DM**
-+ **It is is an industry-proven way to guide your data mining efforts**
++ **It is is an industry-proven way to guide data mining efforts**
 
 ## Project 6 Machine learning Algorithms
++ **Bayesian Algorithms**
+1. Naive Bayes
+2. Gaussian Naive Bayes
++ **Regression Algorithms**
+1. Linear Regression
+2. Logistic Regression
++ **Clustering Algorithms**
+1. K-means
++ **Decision Tree Algorithms**
+1. Classification and Regression Tree (CART)
+2. Xgboost
++ **Dimensionality Reduction Algorithms**
+4.Principal component analysis (PCA)
+5.Latent Dirichlet Allocation (LDA)
+6.t-distributed stochastic neighbor embedding (t-SNE)
++ **Deep Learning**
+7. Seq2seq
+8. Transformer 
 
 
 
