@@ -1,4 +1,4 @@
-# Welcome to Youliang's Portfolio
+# Welcome to Youliang's Portfolio()
 
 
 ## Project 1 User Portrait Analysis
@@ -14,15 +14,13 @@
 
 ## Project 3 Intelligent Credit Scoring
 
-## Project 4 Reading Clocks Using Neural Networks(Deep Learning)
+## Project 4 Supply Chain Analysis
 
-## Project 5 Allstate Claims Severity
+## Project 5 Data Mining 
++ **CRISP-DM**
++ **It is is an industry-proven way to guide your data mining efforts**
 
-## Project 6 Supply Chain Analysis
-
-## Project 7 Data Mining 
-
-## Project 8 Machine learning Algorithms
+## Project 6 Machine learning Algorithms
 
 
 
@@ -30,3 +28,4 @@
 # Course Note
 
 # Books 
+1.
