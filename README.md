@@ -84,6 +84,12 @@
 
 
 ### Machine Learning
+| Name                                           | Authors                        |
+| ---------------------------------------------- | ------------------------------ |
+| Building Machine Learning Powered Applications | Emmanuel Ameisen               |
+| Introduction to Machine Learning with Python   | Andreas C. Müller, Sarah Guido |
+| Python Machine Learning Cookbook               | Chris Albon                    |
+| Foundations of Machine Learning                | Mohri Mehryar                  |
 
 
 ### Deep Learning
