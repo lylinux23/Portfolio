@@ -88,6 +88,7 @@
 | ---------------------------------------- | ----------------------- |
 | Cool Infographics                        | Randy Krum              |
 | Fundamentals of Data Visualization       | Claus O.Wilke           |
+| Data Visualisation                       | Andy Kirk               |
 
 [Information is beautiful](https://informationisbeautiful.net/)
 
