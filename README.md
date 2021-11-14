@@ -35,6 +35,7 @@
 4. Xgboost
 
 + **Dimensionality Reduction Algorithms**
++ 
 1.Principal component analysis (PCA)
 2.Latent Dirichlet Allocation (LDA)
 3.t-distributed stochastic neighbor embedding (t-SNE)
@@ -99,6 +100,10 @@
 
 
 ### Deep Learning
-
+| Name                                   | Authors                                        |
+| -------------------------------------- | ---------------------------------------------- |
+| Deep Learning                          | Ian Goodfellow, Yoshua Bengio, Aaron Courville |
+| Programming PyTorch for Deep Learning  | Ian Pointer                                    |
+| Introduction to Deep Learning          | Eugene Charniak                                |
 
 
