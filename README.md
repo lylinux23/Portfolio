@@ -82,6 +82,11 @@
 
 ### Data Science
 
+| Name                                   | Authors                     |
+| -------------------------------------- | --------------------------- |
+| Data Science from Scratch              | Joel Grus                   |
+| Data Science for Business              | Foster Provost, Tom Fawcett |
+| Storytelling with Data                 | Cole Nussbaumer Knaflic     |
 
 ### Machine Learning
 | Name                                           | Authors                        |
