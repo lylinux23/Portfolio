@@ -1,4 +1,4 @@
-## Welcome to Youliang's Portfolio
+## Welcome to Youliang's Portfolio (In Progress)
 
 
 ### Project 1 User Portrait Analysis
@@ -40,5 +40,38 @@
 7. Seq2seq
 8. Transformer 
 
-### Books 
-1.
+## Books 
+
+### Python
+| Name                     | Authors         |
+| ------------------------ | --------------- |
+| Python Crash Course      | Eric Matthes    |
+| Python for Data Analysis | Wes McKinney    |
+| Fluent Python            | Luciano Ramalho |
+| Python Tricks            | Dan Bader       |
+| Think Python             | Allen B. Downey |
+
+### SQL
+| Name                   | Authors          |
+| ---------------------- | ---------------- |
+| Practical SQL          | Anthony DeBarros |
+| Learning SQL           | Alan Beaulieu    |
+| SQL for Data Analytics | Upom Malik       |
+
+### Data Analysis
+
+
+### Data Visualization
+
+
+### Data Science
+
+
+
+### Machine Learning
+
+
+### Deep Learning
+
+
+
