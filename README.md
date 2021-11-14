@@ -33,12 +33,12 @@
 1. Classification and Regression Tree (CART)
 2. Xgboost
 + **Dimensionality Reduction Algorithms**
-4.Principal component analysis (PCA)
-5.Latent Dirichlet Allocation (LDA)
-6.t-distributed stochastic neighbor embedding (t-SNE)
+1.Principal component analysis (PCA)
+2.Latent Dirichlet Allocation (LDA)
+3.t-distributed stochastic neighbor embedding (t-SNE)
 + **Deep Learning**
-7. Seq2seq
-8. Transformer 
+1. Seq2seq
+2. Transformer 
 
 ## Books 
 
@@ -72,6 +72,7 @@
 | ---------------------------------------- | ----------------------- |
 | Cool Infographics                        | Randy Krum              |
 | Fundamentals of Data Visualization       | Claus O.Wilke           |
+
 +[Information is beautiful](https://informationisbeautiful.net/)
 +[Visual Capitalist](https://www.visualcapitalist.com/)
 
