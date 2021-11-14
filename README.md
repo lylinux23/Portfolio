@@ -32,10 +32,12 @@
 + **Decision Tree Algorithms**
 1. Classification and Regression Tree (CART)
 2. Xgboost
+
 + **Dimensionality Reduction Algorithms**
 1.Principal component analysis (PCA)
 2.Latent Dirichlet Allocation (LDA)
 3.t-distributed stochastic neighbor embedding (t-SNE)
+
 + **Deep Learning**
 1. Seq2seq
 2. Transformer 
@@ -73,8 +75,8 @@
 | Cool Infographics                        | Randy Krum              |
 | Fundamentals of Data Visualization       | Claus O.Wilke           |
 
-+[Information is beautiful](https://informationisbeautiful.net/)
-+[Visual Capitalist](https://www.visualcapitalist.com/)
+[Information is beautiful](https://informationisbeautiful.net/)
+[Visual Capitalist](https://www.visualcapitalist.com/)
 
 ### Data Science
 
