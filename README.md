@@ -90,6 +90,7 @@
 | Introduction to Machine Learning with Python   | Andreas C. Müller, Sarah Guido |
 | Python Machine Learning Cookbook               | Chris Albon                    |
 | Foundations of Machine Learning                | Mohri Mehryar                  |
+| The Hundred-Page Machine Learning Book         | Andriy Burkov                  |
 
 
 ### Deep Learning
