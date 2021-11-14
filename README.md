@@ -3,7 +3,7 @@
 
 ## Project 1 User Portrait Analysis
 + **User portraits is an effective tool for delineating target users, linking user demands and design directions. It  have been widely used in various fields.**
-### Event Recommendation Engine Challenge
++ Event Recommendation Engine Challenge
 
 ## Project 2 Time Series Analysis and Forecasting
 + **Reference Book**
