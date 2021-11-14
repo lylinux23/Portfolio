@@ -35,7 +35,7 @@
 4. Xgboost
 
 + **Dimensionality Reduction Algorithms**
-+ 
+
 1.Principal component analysis (PCA)
 2.Latent Dirichlet Allocation (LDA)
 3.t-distributed stochastic neighbor embedding (t-SNE)
@@ -49,13 +49,17 @@
 ### Statistics
 
 ### Python
-+ Python Crash Course        Author:Eric Matthes    
-+ Python for Data Analysis   Author:Wes McKinney   
-+ Fluent Python              Author: Luciano Ramalho 
-+ Python Tricks              Author: Dan Bader       
-+ Think Python               Author: Allen B. Downey 
+
+| Name                     | Authors         |
+| ------------------------ | --------------- |
+| Python Crash Course      | Eric Matthes    |
+| Python for Data Analysis | Wes McKinney    |
+| Fluent Python            | Luciano Ramalho |
+| Python Tricks            | Dan Bader       |
+| Think Python             | Allen B. Downey |
 
 ### SQL
+
 | Name                   | Authors          |
 | ---------------------- | ---------------- |
 | Practical SQL          | Anthony DeBarros |
@@ -63,6 +67,7 @@
 | SQL for Data Analytics | Upom Malik       |
 
 ### Data Analysis
+
 | Name                                     | Authors                               |
 | ---------------------------------------- | ------------------------------------- |
 | Data Analytics                           | Mohiuddin Ahmed, Al-Sakib Khan Pathan |
@@ -72,6 +77,7 @@
 | Feature Engineering and Selection        | Max Kuhn, Kjell Johnson               |
 
 ### Data Visualization
+
 | Name                                     | Authors                 |
 | ---------------------------------------- | ----------------------- |
 | Cool Infographics                        | Randy Krum              |
@@ -90,6 +96,7 @@
 | Storytelling with Data                 | Cole Nussbaumer Knaflic     |
 
 ### Machine Learning
+
 | Name                                           | Authors                        |
 | ---------------------------------------------- | ------------------------------ |
 | Building Machine Learning Powered Applications | Emmanuel Ameisen               |
@@ -100,6 +107,7 @@
 
 
 ### Deep Learning
+
 | Name                                   | Authors                                        |
 | -------------------------------------- | ---------------------------------------------- |
 | Deep Learning                          | Ian Goodfellow, Yoshua Bengio, Aaron Courville |
