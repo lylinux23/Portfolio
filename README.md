@@ -29,9 +29,10 @@
 2. Logistic Regression
 + **Clustering Algorithms**
 1. K-means
+
 + **Decision Tree Algorithms**
-1. Classification and Regression Tree (CART)
-2. Xgboost
+3. Classification and Regression Tree (CART)
+4. Xgboost
 
 + **Dimensionality Reduction Algorithms**
 1.Principal component analysis (PCA)
@@ -76,6 +77,7 @@
 | Fundamentals of Data Visualization       | Claus O.Wilke           |
 
 [Information is beautiful](https://informationisbeautiful.net/)
+
 [Visual Capitalist](https://www.visualcapitalist.com/)
 
 ### Data Science
