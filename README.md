@@ -119,5 +119,6 @@
 | Deep Learning                          | Ian Goodfellow, Yoshua Bengio, Aaron Courville |
 | Programming PyTorch for Deep Learning  | Ian Pointer                                    |
 | Introduction to Deep Learning          | Eugene Charniak                                |
+| Deep Learning From Scratch             | Seth Weidman                                   |
 
 
