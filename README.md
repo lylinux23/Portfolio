@@ -48,6 +48,12 @@
 
 ### Statistics
 
+| Name                                     | Authors                                 |
+| ---------------------------------------- | --------------------------------------- |
+| All of Statistics                        | Larry Wasserman                         |
+| Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce, Peter Gedeck |
+
+
 ### Python
 
 | Name                     | Authors         |
