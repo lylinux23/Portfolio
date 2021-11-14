@@ -48,11 +48,11 @@
 ### Statistics
 
 ### Python
-+ Python Crash Course       Eric Matthes    
-+ Python for Data Analysis  Wes McKinney   
-+ Fluent Python            Luciano Ramalho 
-+ Python Tricks           |Dan Bader       
-+Think Python              Allen B. Downey 
++ Python Crash Course        Author:Eric Matthes    
++ Python for Data Analysis   Author:Wes McKinney   
++ Fluent Python              Author: Luciano Ramalho 
++ Python Tricks              Author: Dan Bader       
++ Think Python               Author: Allen B. Downey 
 
 ### SQL
 | Name                   | Authors          |
