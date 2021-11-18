@@ -101,6 +101,7 @@
 | Data Science from Scratch              | Joel Grus                   |
 | Data Science for Business              | Foster Provost, Tom Fawcett |
 | Storytelling with Data                 | Cole Nussbaumer Knaflic     |
+| Creating a Data-Driven Organization    | Carl Anderson               |
 
 ### Machine Learning
 
