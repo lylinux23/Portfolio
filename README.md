@@ -1,5 +1,7 @@
 ## Welcome to Youliang's Portfolio (In Progress)
 
+### Master thesis
++ **Application of deep learning in lead optimization for improving activity of drug molecules**
 
 ### Project 1 User Portrait Analysis
 + **User portraits is an effective tool for delineating target users, linking user demands and design directions. It  have been widely used in various fields.**
