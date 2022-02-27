@@ -2,6 +2,7 @@
 
 ### Master thesis
 + **Application of deep learning in lead optimization for improving activity of drug molecules**
+Application of deep learning to optimize the structure of inactive lead compound to improve its activity, meanwhile, keeping the similarity of its structure.
 
 ### Project 1 User Portrait Analysis
 + **User portraits is an effective tool for delineating target users, linking user demands and design directions. It  have been widely used in various fields.**
