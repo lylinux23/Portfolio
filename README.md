@@ -1,6 +1,6 @@
 ## Welcome to Youliang's Portfolio (In Progress)
 
-### Master thesis
+### Master thesis (3/2021-12/2021)
 + [**Application of deep learning in lead optimization for improving activity of drug molecules**](https://www.runoob.com)
 Application of deep learning to optimize the structure of inactive lead compound to improve its activity, meanwhile, keeping the similarity of its structure.
 
